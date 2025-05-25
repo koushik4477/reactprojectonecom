@@ -1,1 +1,1 @@
-# reactprojectonecom
+# coding-project-template
